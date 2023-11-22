@@ -1,17 +1,34 @@
 
 package hengerprogram;
 
-/**
- *
- * @author FranyóKrisztián(SZF_
- */
-public class Hengerprogram {
+import java.util.List;
 
-    /**
-     * @param args the command line arguments
-     */
+public class Hengerprogram {
+    private List hengerek;
     public static void main(String[] args) {
-        // TODO code application logic here
+      
+    }
+    public Hengerprogram(){
+        
+    }
+    public double atlagTerfogat(){
+        
+        return 0;
+        
+    }
+    private List lista(){
+        
+        return null;
+        
+    }
+   
+    public double csovekSulya(){
+        
+        return 0;
+        
+    }
+    public void run(){
+        
     }
     
 }
